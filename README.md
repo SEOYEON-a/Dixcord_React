@@ -31,12 +31,12 @@
 
 ## 1. 개발 환경
 
-- Front : HTML5, CSS3, JS ES6
+- Front : HTML5, CSS3, JS ES6, React 18.3.1, Redux 5.0.1
 - Back-end : Spring Legacy 3.9.11, Apache Tomcat 9.0, Security
 - DB / GIT : ORACLE XE 11.2, Notion, ERD Cloud
-- Real Time : WEB SOCKET, SignalRTC
+- Real Time : WEB SOCKET 4.8.1, SignalRTC
 - Testing : JUnit6
-- 협업 툴 : Figma
+- 협업 툴 : Figma, Github, Git
 - 버전 및 이슈관리 : Github, Git
 - 디자인 : [Figma](https://www.figma.com/design/g9BHZkhIW2VpjkB0AeL8wM/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C?node-id=1354-2&t=xdNK9hZ4O73N3iiN-1)
 <br>

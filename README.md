@@ -16,7 +16,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://github.com/user-attachments/assets/1348490d-a8e3-486c-9d7a-9ac7b3fd684e" width="250px;" height="250px;" alt=""/><br /><sub><b>이서연</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/user-attachments/assets/1348490d-a8e3-486c-9d7a-9ac7b3fd684e" width="250px;" height="250px;" alt=""/><br /><sub><b>이서연</b>(https://github.com/SEOYEON-a)</sub></a><br /></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/4ba22779-886f-400c-b65f-a83f3becaab2" width="250px;" height="250px;"alt=""/><br /><sub><b>장동우</b></sub><br /></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/25e8976f-6bf9-43f5-8b5c-7aef97b691a1" width="250px;" height="250px;"alt=""/><br /><sub><b>설현관</b></sub><br /></td>
      <tr/>
@@ -350,7 +350,7 @@
 ## [상세 친구 추가 기능]
 
 ### [이메일로 추가하기]
-- 이메일을 입력하고 친구 요청 보내기를 클릭하면 요청을 보내지 않거나 이메일이 올바르면 초록색 테두리로 변경되고 아래에 친구 요청이 성공했다는 메세지가 나옵니다.
+- 이메일을 입력하고 친구 요청 보내기를 클릭하면 요청을 보내지 않거나 이메일이 올바르면 초록색 테두리로 변경되고 <br/> 아래에 친구 요청이 성공했다는 메세지가 나옵니다.
 - 만일 요청을 이미 보냈거나 이메일이 잘못되었으면 빨간색 테두리로 변경되고 아래에 다시 확인하라는 메세지가 나옵니다.
 
 | 이메일로 추가하기 |

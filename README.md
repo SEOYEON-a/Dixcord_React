@@ -195,7 +195,7 @@
   
 | 대기 중 친구 리스트 출력 |
 |----------|
-|![WaitFriendsList](https://github.com/user-attachments/assets/bcbf09ff-e4b7-4371-be5a-cc8f4d57487b)|
+|![WaitFriendsList](https://github.com/user-attachments/assets/84ee758d-4446-4f28-824a-ce8bc126f746)|
 
 <br>
 
@@ -221,23 +221,43 @@
 
 <br>
 
-### [모든 친구 검색]
-- 모두를 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+### [추천 친구 검색]
+- 추천을 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
 - 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
-| 모든 친구 검색 |
+| 추천 친구 검색 |
 |----------|
-|![adminmainpage-popupListSearch](https://github.com/user-attachments/assets/ce366f91-3c1e-4b64-b929-024f9c1e4f24)|
+|![searchRecommendfriend](https://github.com/user-attachments/assets/f5137343-0327-423a-9b47-9566aa31fe10)|
 
 <br>
 
-### [모든 친구 검색]
-- 모두를 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+### [요청 친구 검색]
+- 요청을 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
 - 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
-| 모든 친구 검색 |
+| 요청 친구 검색 |
 |----------|
-|![adminmainpage-popupListSearch](https://github.com/user-attachments/assets/ce366f91-3c1e-4b64-b929-024f9c1e4f24)|
+|![searchRequestfriend](https://github.com/user-attachments/assets/4075596a-bdda-4e1e-b4a4-1d3f27e97785)|
+
+<br>
+
+### [대기 중 친구 검색]
+- 대기 중을 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
+
+| 대기 중 친구 검색 |
+|----------|
+|![searchWaitfriend](https://github.com/user-attachments/assets/a673f0aa-3424-4169-9da7-29901f7efa90)|
+
+<br>
+
+### [차단 친구 검색]
+- 차단을 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
+
+| 차단 친구 검색 |
+|----------|
+|![searchBlockfriend](https://github.com/user-attachments/assets/3a7fabd4-0dcb-467a-b275-efc733020e54)|
 
 <br>
 

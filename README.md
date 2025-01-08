@@ -1,4 +1,4 @@
-# 게임하면서 통화까지! Dixcord
+# 게임하면서 채팅하고 통화까지! Dixcord
 
 ![readme_mockup2](https://user-images.githubusercontent.com/112460466/210706312-6a44b60d-a42e-4210-b334-9e5983f70fb3.png)
 

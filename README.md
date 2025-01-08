@@ -21,7 +21,7 @@
       <td align="center"><img src="https://github.com/user-attachments/assets/25e8976f-6bf9-43f5-8b5c-7aef97b691a1" width="250px;" height="250px;"alt=""/><br /><sub><b>설현관</b></sub><br /></td>
      <tr/>
       <td align="center"><img src="https://github.com/user-attachments/assets/be81161e-0bee-4483-84f7-9f5fb93dbfae" width="250px;" height="250px;"alt=""/><br /><sub><b>김윤</b></sub><br /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/be81161e-0bee-4483-84f7-9f5fb93dbfae" width="250px;" height="250px;"alt=""/><br /><sub><b>원호연</b></sub><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/c06919fd-00c8-4aa2-9ffa-25b32597931a" width="250px;" height="250px;"alt=""/><br /><sub><b>원호연</b></sub><br /></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/164d6e0e-6bcb-4314-9aa2-b5c3be181f2d" width="250px;" height="250px;"alt=""/><br /><sub><b>윤도현</b></sub><br /></td>
     </tr>
   </tbody>

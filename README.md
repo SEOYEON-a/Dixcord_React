@@ -333,92 +333,62 @@
 
 <br>
 
-## [수정 기능]
+### [친구 차단 해제하기]
+- 차단 친구 리스트에 출력된 각 유저의 우측에 있는 차단 해제 버튼을 클릭하면 친구 차단이 해제됩니다.
+- 해제되는 즉시 삭제되며 친구상태가 일반친구로 변경됩니다.
 
-### [팝업스토어 수정]
-- 팝업스토어 정보를 클릭하면 팝업스토어 수정 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 수정완료 클릭 시 업데이트 됩니다.
-
-| 팝업스토어 수정 |
+| 친구 차단 해제하기 |
 |----------|
-|![admin-popup-edit](https://github.com/user-attachments/assets/9841b124-6f7f-4ae6-a814-ce0781665d47)|
+|![friend-blockcancelfriend](https://github.com/user-attachments/assets/65dd552a-4ca9-4a5a-b6d8-996522f67e5e)|
 
 <br>
 
-### [굿즈 수정]
-- 굿즈 정보를 클릭하면 굿즈 수정 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 수정완료 클릭 시 업데이트 됩니다.
+## [상세 친구 추가 기능]
 
-| 굿즈 수정 |
+### [이메일로 추가하기]
+- 이메일을 입력하고 친구 요청 보내기를 클릭하면 요청을 보내지 않거나 이메일이 올바르면 초록색 테두리로 변경되고 아래에 친구 요청이 성공했다는 메세지가 나옵니다.
+- 만일 요청을 이미 보냈거나 이메일이 잘못되었으면 빨간색 테두리로 변경되고 아래에 다시 확인하라는 메세지가 나옵니다.
+
+| 이메일로 추가하기 |
 |----------|
-|![admin-goods-edit-](https://github.com/user-attachments/assets/9221d9cc-aba1-4a42-9e94-d29d1a207bae)|
+|![friend-detailaddfriend](https://github.com/user-attachments/assets/7fff2f44-66a6-4a71-99af-fb86f3ab10c8)|
 
 <br>
 
-### [전시회 수정]
-- 전시회 정보를 클릭하면 전시회 수정 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 수정완료 클릭 시 업데이트 됩니다.
+## [친구 온/오프라인 상태 변경 기능]
 
-| 전시회 수정 |
+### [온/오프라인 실시간 변경]
+- 친구인 유저가 로그인을 하면 유저 아이콘 옆에 작은 동그라미가 청록색으로 변경됩니다.
+- 로그아웃을 하면 유저 아이콘 옆에 작은 동그라미가 회색으로 변경됩니다.
+- 좌측 사이드바 친구목록과 모든 친구 리스트에서 동시에 변경됩니다.
+
+| 온/오프라인 실시간 변경 |
 |----------|
-|![admin-exhibit-edit-ezgif com-speed](https://github.com/user-attachments/assets/ad06df95-6fd5-4460-b293-0a9fdf64c38d)|
+|![friendList-onoffline](https://github.com/user-attachments/assets/e4b1ae76-6b90-4783-bf5e-fedc2680f5e9)|
 
 <br>
 
-### [회원 수정]
-- 회원 정보를 클릭하면 회원 수정 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 관리자 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 수정완료 클릭 시 업데이트 됩니다.
+### [채팅방 이동]
+- 좌측 사이드바 친구목록에 있는 친구를 클릭하면 채팅방으로 이동합니다.
+- 유저가 설정한 프로필이 있으면 설정한 프로필이 뜨고
+- 유저가 설정하지 않았으면 기본 프로필이 뜹니다.
 
-| 회원 수정 |
+| 채팅방 이동 |
 |----------|
-|![admin-userbacktoList-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/12450e39-f0c4-48a9-9d8e-9e821c5219fc)|
-|![admin-usereditList](https://github.com/user-attachments/assets/0de8ff9f-ae37-4bce-bcd2-0f51c56e04f3)|
+|![chatfriend-defaultprofile](https://github.com/user-attachments/assets/ffe4e392-5ce0-4ff1-8960-57a7fb9c68c9)|
+|![chatfriend-customprofile](https://github.com/user-attachments/assets/5e2b4734-0efd-479f-83da-7253aeaf4f99)|
 
 <br>
 
-## [삭제 기능]
+### [레드닷 알림]
+- 유저가 로그인한 유저에게 채팅을 보내면 좌측 사이드바 친구 우측에 레드닷이 뜹니다.
+- 클릭 시 삭제되며 실시간으로 채팅이 왔는지를 알 수 있습니다.
+- 로그인한 유저가 보내도 친구인 유저의 사이드바 목록에 뜹니다.
 
-### [팝업스토어 삭제]
-- 팝업스토어 정보를 클릭하면 팝업스토어 삭제 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 삭제 클릭 시 삭제됩니다.
-
-| 팝업스토어 삭제 |
+| 레드닷 알림 |
 |----------|
-|![admin-popup-delete](https://github.com/user-attachments/assets/57ef7dcc-6659-4190-8288-f7732941d24d)|
-
-<br>
-
-### [굿즈 삭제]
-- 굿즈 정보를 클릭하면 굿즈 삭제 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 삭제 클릭 시 삭제됩니다.
-
-| 굿즈 삭제 |
-|----------|
-|![admin-goods-delete](https://github.com/user-attachments/assets/3a83bf26-afc9-48cd-9208-88872406da39)|
-
-<br>
-
-### [전시회 삭제]
-- 전시회 정보를 클릭하면 전시회 삭제 페이지로 넘어갑니다.
-- 취소 및 리스트로 돌아가기 클릭 시 리스트로 돌아갑니다.
-- 메인 페이지 클릭 시 메인페이지로 돌아갑니다.
-- 삭제 클릭 시 삭제됩니다.
-
-| 전시회 삭제 |
-|----------|
-|![admin-exhibit-delete-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0ae46b6c-11e9-4e54-b734-069006ec29ca)|
+|![friendreddotalarm](https://github.com/user-attachments/assets/f12a55a6-b15f-4bae-81c9-18e05e7fe7db)|
+|![reddotr](https://github.com/user-attachments/assets/28865e11-aa7f-47ad-80d2-ba35b1e4b285)|
 
 <br>
 

@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td align="center"><a href=""><img src="https://github.com/user-attachments/assets/1348490d-a8e3-486c-9d7a-9ac7b3fd684e" width="250px;" height="250px;" alt=""/><br /><sub><b>이서연</b></sub></a><br /></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/4ba22779-886f-400c-b65f-a83f3becaab2" width="250px;" height="250px;"alt=""/><br /><sub><b>장동우</b></sub><<br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/4ba22779-886f-400c-b65f-a83f3becaab2" width="250px;" height="250px;"alt=""/><br /><sub><b>장동우</b></sub><br /></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/25e8976f-6bf9-43f5-8b5c-7aef97b691a1" width="250px;" height="250px;"alt=""/><br /><sub><b>설현관</b></sub><br /></td>
      <tr/>
       <td align="center"><img src="https://github.com/user-attachments/assets/be81161e-0bee-4483-84f7-9f5fb93dbfae" width="250px;" height="250px;"alt=""/><br /><sub><b>김윤</b></sub><br /></td>

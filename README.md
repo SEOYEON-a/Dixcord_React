@@ -34,7 +34,7 @@
 - Front : HTML5, CSS3, JS ES6
 - Back-end : Spring Legacy 3.9.11, Apache Tomcat 9.0, Security
 - DB / GIT : ORACLE XE 11.2, Notion, ERD Cloud
-- Real Time : WEB SOCKET,
+- Real Time : WEB SOCKET, SignalRTC
 - Testing : JUnit6
 - 협업 툴 : Figma
 - 버전 및 이슈관리 : Github, Git

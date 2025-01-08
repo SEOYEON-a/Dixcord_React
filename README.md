@@ -36,7 +36,7 @@
 - DB : ORACLE 11.2.0.2, SQL 21.4.3
 - Real Time : WEB SOCKET 4.8.1
 - 협업 툴 : Figma, Github, Git, Notion, ERD Cloud
-- 디자인 : [Figma](https://www.figma.com/design/g9BHZkhIW2VpjkB0AeL8wM/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C?node-id=1354-2&t=xdNK9hZ4O73N3iiN-1)
+- 디자인 : [Figma](https://github.com/user-attachments/files/18345739/default.pdf)
   
 <br>
 

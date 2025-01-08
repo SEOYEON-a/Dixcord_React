@@ -160,7 +160,7 @@
 ## [출력 기능]
 
 ### [모든 친구 리스트 출력]
-- 모두를 클릭하면 현재 로그인한 유저와 친구인 리스트가 출력됩니다.
+- 모두를 클릭하면 현재 로그인한 유저와 친구인 유저의 리스트가 출력됩니다.
 - 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
 | 모든 친구 리스트 출력 |
@@ -169,80 +169,75 @@
 
 <br>
 
-### [굿즈 리스트 출력]
-- 쇼핑몰 관리하기를 클릭하면 현재 등록된 굿즈 리스트가 출력됩니다.
-- 한 페이지에 32개가 출력되고 32개가 넘어가면 페이징 처리가 되어 넘어갑니다.
-- 마우스 오버 시 분홍색으로 바뀝니다.
+### [추천 친구 리스트 출력]
+- 추천을 클릭하면 현재 로그인한 유저와 친구가 아닌 유저의 리스트가 출력됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
-| 굿즈 리스트 출력 |
+| 추천 친구 리스트 출력 |
 |----------|
-|![adminmainpage-goodsList](https://github.com/user-attachments/assets/258e9984-5c00-4374-a670-9f97c8dc23b9)|
+|![RecommendFriendsList](https://github.com/user-attachments/assets/94f0c24d-e4a2-4fdd-95d1-3f4d8c00b22e)|
 
 <br>
 
-### [전시회 리스트 출력]
-- 전시회 관리하기를 클릭하면 현재 등록된 전시회 리스트가 출력됩니다.
-- 한 페이지에 14개가 출력되고 14개가 넘어가면 페이징 처리가 되어 넘어갑니다.
-- 마우스 오버 시 분홍색으로 바뀝니다.
+### [요청 친구 리스트 출력]
+- 요청을 클릭하면 현재 로그인한 유저가 친구 추가를 보낸 유저의 리스트가 출력됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
-| 전시회 리스트 출력 |
+| 요청 친구 리스트 출력 |
 |----------|
-|![adminmainpage-exhibitList](https://github.com/user-attachments/assets/af507c2b-dd86-4959-ab2e-78a92d0539e3)|
+|![RequestFriendsList](https://github.com/user-attachments/assets/83cef693-46e2-4cca-ae62-b7b9b93f928f)|
 
 <br>
 
-### [회원 리스트 출력]
-- 회원 관리하기를 클릭하면 현재 등록된 회원 리스트가 출력됩니다.
-- 한 페이지에 13개가 출력되고 13개가 넘어가면 페이징 처리가 되어 넘어갑니다.
-- 마우스 오버 시 분홍색으로 바뀝니다.
-
-| 회원 리스트 출력 |
+### [대기 중 친구 리스트 출력]
+- 대기 중을 클릭하면 현재 로그인한 유저에게 친구 추가를 보낸 유저의 리스트가 출력됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
+  
+| 대기 중 친구 리스트 출력 |
 |----------|
-|![adminmainpage-userList](https://github.com/user-attachments/assets/bcbf09ff-e4b7-4371-be5a-cc8f4d57487b)|
+|![WaitFriendsList](https://github.com/user-attachments/assets/bcbf09ff-e4b7-4371-be5a-cc8f4d57487b)|
 
 <br>
 
-### [문의 리스트 출력]
-- 문의 리스트 확인을 클릭하면 현재 등록된 문의 리스트가 출력됩니다.
-- 문의 유형과 답변 여부에 따라 필터링된 리스트가 출력됩니다.
-- 관리자 메인 페이지를 클릭하면 메인페이지로 돌아갑니다.
-
-| 문의 리스트 출력 |
+### [차단 친구 리스트 출력]
+- 차단을 클릭하면 현재 로그인한 유저에게 친구 추가를 보낸 유저의 리스트가 출력됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
+  
+| 차단 친구 리스트 출력 |
 |----------|
-|![adminmainpage-adminaskList](https://github.com/user-attachments/assets/fb60ff70-149a-4d18-998b-64a6303a0234)|
+|![BlockFriendsList](https://github.com/user-attachments/assets/dd61fd8a-8323-4dcd-bfe9-a28ecbb91495)|
 
 <br>
 
 ## [검색 기능]
 
-### [팝업스토어 검색]
-- 팝업스토어 관리하기 클릭 후 검색창에 팝업스토어 이름을 검색하면 해당 검색어와 맞는 팝업스토어가 나옵니다.
-- 한 페이지에 15개가 출력되고 15개가 넘어가면 페이징 처리가 되어 넘어갑니다.
-- 마우스 오버 시 분홍색으로 바뀝니다.
+### [모든 친구 검색]
+- 모두를 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
-| 팝업스토어 검색 |
+| 모든 친구 검색 |
+|----------|
+|![searchAllfriend](https://github.com/user-attachments/assets/c25a0d5a-59ad-4ef4-9c4f-91d8769bf7c7)|
+
+<br>
+
+### [모든 친구 검색]
+- 모두를 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
+
+| 모든 친구 검색 |
 |----------|
 |![adminmainpage-popupListSearch](https://github.com/user-attachments/assets/ce366f91-3c1e-4b64-b929-024f9c1e4f24)|
 
 <br>
 
-### [굿즈 검색]
-- 쇼핑몰 관리하기 클릭 후 검색창에 굿즈 이름을 검색하면 해당 검색어와 맞는 굿즈가 나옵니다.
-- 마우스 오버 시 분홍색으로 바뀝니다.
+### [모든 친구 검색]
+- 모두를 클릭한 후 검색하기 창에 유저의 닉네임을 검색하면 해당 검색어와 맞는 유저가 검색됩니다.
+- 마우스 오버 시 해당 div 영역 뒤에 불투명한 회색 배경이 뜹니다.
 
-| 굿즈 검색 |
+| 모든 친구 검색 |
 |----------|
-|![adminmainpage-goodsListSearch](https://github.com/user-attachments/assets/258e9984-5c00-4374-a670-9f97c8dc23b9)|
-
-<br>
-
-### [전시회 검색]
-- 전시회 관리하기 클릭 후 검색창에 전시회 이름을 검색하면 해당 검색어와 맞는 전시회가 나옵니다.
-- 마우스 오버 시 분홍색으로 바뀝니다.
-
-| 전시회 검색 |
-|----------|
-|![adminmainpage-exhibitListSearch](https://github.com/user-attachments/assets/af507c2b-dd86-4959-ab2e-78a92d0539e3)|
+|![adminmainpage-popupListSearch](https://github.com/user-attachments/assets/ce366f91-3c1e-4b64-b929-024f9c1e4f24)|
 
 <br>
 

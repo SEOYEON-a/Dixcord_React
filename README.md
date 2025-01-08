@@ -31,7 +31,7 @@
 
 ## 1. 개발 환경
 
-- Front : HTML5, CSS3, JS ES6, React 18.3.1, Redux 5.0.1
+- Front : HTML5, CSS3, JS ES6, React 18.3.1
 - Back-end : Spring Legacy 5.0.7, Apache Tomcat 9.0, Java 11, Rombok 3.9.11
 - DB : ORACLE 11.2.0.2, SQL 21.4.3
 - Real Time : WEB SOCKET 4.8.1

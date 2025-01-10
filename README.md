@@ -1,4 +1,4 @@
-# 게임하면서 채팅하고 통화까지! Dixcord
+# 게임하면서 채팅하고 전화까지! Dixcord
 
 ![Dixcord](https://github.com/user-attachments/assets/a6cd8af9-cc5b-4439-9245-0ab718cbbf04)
 
